@@ -2,7 +2,7 @@
 
 ## unofficial standalone version
 
-![License: CC BY-NC-SA 4.0](./asserts/IMG_4015.jpg)
+![standalone-performer](./asserts/IMG_4015.jpg)
 
 ## overview
 
@@ -15,6 +15,18 @@ The (currently) needed custom firmware can be found in a [branch from my fork](h
 ## hardware issues in v0.1
 
 take a look at the issues [here]().
+
+## pictures
+
+![pcb-main-front](./asserts/pcb-maina.png)
+
+![pcb-main-back](./asserts/pcb-mainb.png)
+
+## expander
+
+<img src="./asserts/breakout.png" height="590"><img src="./asserts/pcb-expa.png" height="500"><img src="./asserts/pcb-expb.png" height="500">
+
+
 
 ## license
 
