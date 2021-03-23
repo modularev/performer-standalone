@@ -24,7 +24,7 @@ take a look at the issues [here]().
 
 ## expander
 
-<img src="./asserts/breakout.png" height="590"><img src="./asserts/pcb-expa.png" height="500"><img src="./asserts/pcb-expb.png" height="500">
+<p align="center"><img src="./asserts/breakout.png" height="590">                    <img src="./asserts/pcb-expa.png" height="500">          <img src="./asserts/pcb-expb.png" height="500"></p>
 
 
 
