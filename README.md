@@ -14,7 +14,7 @@ The (currently) needed custom firmware can be found in a [branch from my fork](h
 
 ## hardware issues in v0.1
 
-take a look at the issues [here]().
+take a look at the issues [here](https://github.com/modularev/performer-standalone/issues).
 
 ## pictures
 
